@@ -40,3 +40,9 @@ In case the hierarchy of how the shortcode figures out what site to pull the con
 - ID specified in shortcode
 - ID specified in Site Settings
 - ID specified in Network Settings
+
+## Copyright and License
+
+This project is licensed under the [GNU GPL](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html), version 2 or later.
+
+Copyright &copy; 2016 [Matt Walters](https://mattwalters.net).
